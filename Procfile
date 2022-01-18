@@ -1,1 +1,1 @@
-web: gunicorn ZAY.wsgi
+web: gunicorn readImg.wsgi
